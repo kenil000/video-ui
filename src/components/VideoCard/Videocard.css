@@ -1,0 +1,15 @@
+.videoCard{
+    width: 270px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.videoCard__thumbnail{
+    height: 140px;
+    width: 270px;
+}
+
+.videoCard__info{
+    width: 270px;
+    margin-top: 5px;
+}

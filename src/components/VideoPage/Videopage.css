@@ -1,0 +1,9 @@
+.watch__btm {
+    margin-top: 10px;
+    border-bottom: 1px solid #000;
+}
+
+.watch__video {
+    width: 66vw;
+    outline: none;
+}

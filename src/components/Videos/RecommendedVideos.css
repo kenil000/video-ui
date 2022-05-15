@@ -1,0 +1,15 @@
+.rcmVideos{
+    flex: 0.8;
+    height: 100vh;
+}
+
+.rcmVideos > h3{
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.recommendedVideos__videos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

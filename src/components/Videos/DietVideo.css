@@ -1,0 +1,15 @@
+.dietVideos {
+    flex: 0.8;
+    height: 100vh;
+}
+
+.dietVideos > h3 {
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.dietVideos__videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

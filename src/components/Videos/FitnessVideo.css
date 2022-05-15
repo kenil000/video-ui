@@ -1,0 +1,15 @@
+.fitnessVideos {
+    flex: 0.8;
+    height: 100vh;
+}
+
+.fitnessVideos > h3 {
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.fitnessVideos__videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

@@ -1,0 +1,22 @@
+.sidebar{
+    flex: 0.2;
+    background: #3C3B3F;
+        /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #605C3C, #3C3B3F);
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        height: 91.5vh;
+        position: sticky;
+        z-index: 99;
+}
+
+
+.menu_item:hover{
+    background-color: rgb(237, 113, 25);
+    cursor: pointer;
+}
+
+.menu_item.active{
+    background-color: rgb(237, 113, 25);
+}
